@@ -4,7 +4,7 @@ body {
   font: Helvetica;/*this is the font type I like*/
   color: black;
   height: auto;
-  padding: 0;
+  padding: auto;
   text-align: center;
   align-items: center;
 
