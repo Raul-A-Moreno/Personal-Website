@@ -23,10 +23,12 @@ img {
   width: 1in; /*the image cannot be too big or it will be distracting*/
 }
 ul {
+  margin: auto;
   text-align: center;
   list-style-position: inside;/*to keep my bullet points together*/
 }
 ol {
+  margin: auto;
   text-align: center;
   list-style-position: inside;
 }
