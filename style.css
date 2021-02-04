@@ -27,14 +27,14 @@ ul {
   display: inline-block;
   padding-left: 0;
   margin: 0;
-  text-align: center;
+  text-align: left;
   list-style-position: inside;/*to keep my bullet points together*/
 }
 ol {
   display: inline-block;
   padding-left: 0;
   margin: 0;
-  text-align: center;
+  text-align: left;
   list-style-position: inside;
 }
 /*this will change the color of the links as they are used*/
