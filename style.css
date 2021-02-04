@@ -1,7 +1,7 @@
 body {
   margin: 0;
-  background-color: cadetblue3;
-  font: Helvetica;
+  background-color: cadetblue3; /*this changes the color of my background*/
+  font: Helvetica;/*this is the font type I like*/
   color: black;
   height: auto;
   padding: auto;
@@ -19,6 +19,19 @@ img {
   height: auto;
   margin: 0;
   padding: auto;
-  text-align: center;
-  width: 3in;
+  text-align: center;/*make sure that the image remains centered/*
+  width: 3in;/*the image cannot be to big or it will be distracting*/
 }
+ul {
+  text-align: center;
+  list-style-position: inside;/*to keep my bullet points together*/
+}
+ol {
+  text-align: center;
+  list-style-position: inside;
+}
+
+a:link    { color:  hsl(125, 100%, 30%);  }
+a:visited { color: hsl(125, 100%, 10%); }
+a:hover   { color: hsl(125, 100%, 35%); }
+a:active  { color: hsl(125, 100%, 17%); }
