@@ -4,8 +4,11 @@ body {
   font: Helvetica;/*this is the font type I like*/
   color: black;
   height: auto;
-  padding: auto;
+  padding: 0;
   text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
 
 }
 header h1 {
@@ -20,7 +23,7 @@ img {
   margin: 0;
   padding: auto;
   text-align: center;/*make sure that the image remains centered*/
-  width: 1in; /*the image cannot be too big or it will be distracting*/
+  width: 3in; /*the image cannot be too big or it will be distracting*/
 }
 ul {
   margin: auto;
