@@ -30,7 +30,7 @@ ol {
   text-align: center;
   list-style-position: inside;
 }
-
+/*this will change the color of the links as they are used*/
 a:link    { color:  hsl(125, 100%, 30%);  }
 a:visited { color: hsl(125, 100%, 10%); }
 a:hover   { color: hsl(125, 100%, 35%); }
